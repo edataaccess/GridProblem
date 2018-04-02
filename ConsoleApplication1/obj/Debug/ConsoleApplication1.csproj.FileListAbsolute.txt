@@ -1,0 +1,9 @@
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\brownp\documents\visual studio 2012\Projects\IconicSecSysGridProblem\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\brownp\Documents\Visual Studio 2012\Projects\IonicSecSysGridProblem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\brownp\Documents\Visual Studio 2012\Projects\IonicSecSysGridProblem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\brownp\Documents\Visual Studio 2012\Projects\IonicSecSysGridProblem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
